@@ -23,9 +23,34 @@ The above method is called Agglomerative or Bottom-Up.
 
 ### Case 1.[East-West Airline](https://github.com/D4Danny/Hierarchical-Clustering-for-Airline/blob/main/Hierarchical%20Clustering%20for%20East%20West%20Airline.ipynb)
 
-East West Airlines has provided information on passengers who belong to an airline’s frequent flier program. For each passenger the data include information on their mileage history and on different ways they accrued or spent miles in the last year. The goal is to try to identify clusters of passengers that have similar characteristics for the purpose of targeting different segments for different types of mileage offers
+East West Airlines has provided information on passengers who belong to an airline’s frequent flier program. For each passenger the data include information on their mileage history and on different ways they accrued or spent miles in the last year. The goal is to try to identify clusters of passengers that have similar characteristics for the purpose of targeting different segments for different types of mileage offers.
 
 
 
 ### 2. K-Means Clustering <a name="KM"></a>
-Hierarchical cluster analysis  is an unsupervised clustering algorithm that merge similar data points together into groups called Clusters.
+K MEANS clustering analysis  is also known as Non-Hierarchical Clustering that pre-determined number (K) of Non overlapping clusters.
+Clusters are homogeneous, yet dissimilar to other clusters. 
+Need measures of Within-Cluster similarity (homogeneity) and Between-Cluster similarity.
+#### K-Means clustering is useful for large datasets.
+
+#### Business Case and Initialize K cluster centers and Obtain CENTROIDS 
+
+### Case 1.[East-West Airline](https://github.com/D4Danny/K-Means-Clustering-for-Airline/blob/main/K%20Mean%20Clustering%20for%20East%20West%20Airline.ipynb)
+
+East West Airlines has provided information on passengers who belong to an airline’s frequent flier program. For each passenger the data include information on their mileage history and on different ways they accrued or spent miles in the last year. The goal is to try to identify clusters of passengers that have similar characteristics for the purpose of targeting different segments for different types of mileage offers.
+
+
+
+### 3. DBSCAN Clustering <a name="DC"></a>
+K MEANS clustering analysis  is also known as Non-Hierarchical Clustering that pre-determined number (K) of Non overlapping clusters.
+Clusters are homogeneous, yet dissimilar to other clusters. 
+Need measures of Within-Cluster similarity (homogeneity) and Between-Cluster similarity.
+
+
+#### Business Case and Initialize K cluster centers and Obtain CENTROIDS 
+
+### Case 1.[East-West Airline](https://github.com/D4Danny/DBSCAN-Clustering-for-Airline/blob/main/DBSCAN%20Clustering%20for%20East%20West%20Airline.ipynb)
+
+East West Airlines has provided information on passengers who belong to an airline’s frequent flier program. For each passenger the data include information on their mileage history and on different ways they accrued or spent miles in the last year. The goal is to try to identify clusters of passengers that have similar characteristics for the purpose of targeting different segments for different types of mileage offers.
+
+
