@@ -5,9 +5,9 @@ Cluster Analysis (“data segmentation”) is an exploratory method for identify
 Similar records should belong to the same Cluster. Dissimilar records should belong to different clusters. 
 CLUSTERING = GROUPING “Similar” things together!
 
-### [Hierarchical Clustering](#HC)
-### [K-Means Clustering](#KM)
-### [DBSCAN Clustering](#DC)
+### 1. [Hierarchical Clustering](#HC)
+### 2. [K-Means Clustering](#KM)
+### 3. [DBSCAN Clustering](#DC)
 
 
 ### BUSINESS CASE: 
