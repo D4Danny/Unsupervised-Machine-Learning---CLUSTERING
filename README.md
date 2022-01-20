@@ -22,7 +22,7 @@ Hierarchical cluster analysis  is an unsupervised clustering algorithm that merg
 #### Similarity is seen between CLUSTERS.
 The above method is called Agglomerative or Bottom-Up.
 
-### Scenario 1 [East-West Airline](https://github.com/D4Danny/Hierarchical-Clustering-for-Airline/blob/main/Hierarchical%20Clustering%20for%20East%20West%20Airline.ipynb)
+### Scenario 1 [Hierarchical clustering with East-West Airline](https://github.com/D4Danny/Hierarchical-Clustering-for-Airline/blob/main/Hierarchical%20Clustering%20for%20East%20West%20Airline.ipynb)
 #### Clustering of Data based on their homogenous characteristics
 
 
@@ -35,7 +35,7 @@ Clusters are homogeneous, yet dissimilar to other clusters.
 Need measures of Within-Cluster similarity (homogeneity) and Between-Cluster similarity.
 #### K-Means clustering is useful for large datasets.
 
-### Scenario 1 [East-West Airline](https://github.com/D4Danny/K-Means-Clustering-for-Airline/blob/main/K%20Mean%20Clustering%20for%20East%20West%20Airline.ipynb)
+### Scenario 1 [K-Means with East-West Airline](https://github.com/D4Danny/K-Means-Clustering-for-Airline/blob/main/K%20Mean%20Clustering%20for%20East%20West%20Airline.ipynb)
 #### Initialize K cluster centers and Obtain CENTROIDS 
 
 
@@ -45,7 +45,7 @@ DBSCAN is a density based clustering method that discovers clusters of Non-spher
 #### A point will be considered as crowded if it has too many other neighbours points near it. DBSCAN finds this these crowded points and places them and their neighbours in a cluster.
 
 
-### Scenario 1 [East-West Airline](https://github.com/D4Danny/DBSCAN-Clustering-for-Airline/blob/main/DBSCAN%20Clustering%20for%20East%20West%20Airline.ipynb)
+### Scenario 1 [DBSCAN with East-West Airline](https://github.com/D4Danny/DBSCAN-Clustering-for-Airline/blob/main/DBSCAN%20Clustering%20for%20East%20West%20Airline.ipynb)
 #### DBSCAN alogorithm requires TWO parameters: 1) EPS and 2) MinPts. 
 It has 3 types of data-Points:
 #### 1. Core Point
