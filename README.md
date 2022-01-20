@@ -12,4 +12,7 @@ CLUSTERING = GROUPING “Similar” things together!
 
 
 
-### 1. [Hierarchical Clustering] <a name="HC"></a>
+### 1. Hierarchical Clustering <a name="HC"></a>
+
+
+
