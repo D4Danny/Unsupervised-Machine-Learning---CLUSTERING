@@ -39,11 +39,17 @@ Need measures of Within-Cluster similarity (homogeneity) and Between-Cluster sim
 #### Initialize K cluster centers and Obtain CENTROIDS 
 
 
-### 3. DBSCAN Clustering <a name="DC"></a>
-K MEANS clustering analysis  is also known as Non-Hierarchical Clustering that pre-determined number (K) of Non overlapping clusters.
-Clusters are homogeneous, yet dissimilar to other clusters. 
-Need measures of Within-Cluster similarity (homogeneity) and Between-Cluster similarity.
+### 3. Density-Based Spatial Clustering Application with Noise (DBSCAN) Clustering <a name="DC"></a>
+DBSCAN is a density based clustering method that discovers clusters of Non-spherical shape. The DBSCAN clustering method can represent clusters of arbitrary shape and to handle noise. It groups together points with a dense neighbourhood into clusters.
+
+#### A point will be considered as crowded if it has too many other neighbours points near it. DBSCAN finds this these crowded points and places them and their neighbours in a cluster.
+
 
 ### Scenario 1 [East-West Airline](https://github.com/D4Danny/DBSCAN-Clustering-for-Airline/blob/main/DBSCAN%20Clustering%20for%20East%20West%20Airline.ipynb)
-#### Business Case and Initialize K cluster centers and Obtain CENTROIDS 
+#### DBSCAN alogorithm requires TWO parameters: 1) EPS and 2) MinPts. 
+It has 3 types of data-Points:
+#### 1. Core Point
+#### 2. Border Point
+#### 3. Noise or Outlier
+
 
