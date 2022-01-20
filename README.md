@@ -23,7 +23,7 @@ The above method is called Agglomerative or Bottom-Up.
 
 #### Clustering of Data based on their homogenous characteristics
 
-### Hierarchical Clustering.[East-West Airline](https://github.com/D4Danny/Hierarchical-Clustering-for-Airline/blob/main/Hierarchical%20Clustering%20for%20East%20West%20Airline.ipynb)
+### [East-West Airline](https://github.com/D4Danny/Hierarchical-Clustering-for-Airline/blob/main/Hierarchical%20Clustering%20for%20East%20West%20Airline.ipynb)
 
 
 
