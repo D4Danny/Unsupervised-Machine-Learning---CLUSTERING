@@ -21,9 +21,9 @@ Hierarchical cluster analysis  is an unsupervised clustering algorithm that merg
 #### Similarity is seen between CLUSTERS.
 The above method is called Agglomerative or Bottom-Up.
 
+### Scenario 1 [East-West Airline](https://github.com/D4Danny/Hierarchical-Clustering-for-Airline/blob/main/Hierarchical%20Clustering%20for%20East%20West%20Airline.ipynb)
 #### Clustering of Data based on their homogenous characteristics
 
-### [East-West Airline](https://github.com/D4Danny/Hierarchical-Clustering-for-Airline/blob/main/Hierarchical%20Clustering%20for%20East%20West%20Airline.ipynb)
 
 
 
@@ -34,9 +34,8 @@ Clusters are homogeneous, yet dissimilar to other clusters.
 Need measures of Within-Cluster similarity (homogeneity) and Between-Cluster similarity.
 #### K-Means clustering is useful for large datasets.
 
+### Scenario 1 [East-West Airline](https://github.com/D4Danny/K-Means-Clustering-for-Airline/blob/main/K%20Mean%20Clustering%20for%20East%20West%20Airline.ipynb)
 #### Initialize K cluster centers and Obtain CENTROIDS 
-
-### K-Means Clustering.[East-West Airline](https://github.com/D4Danny/K-Means-Clustering-for-Airline/blob/main/K%20Mean%20Clustering%20for%20East%20West%20Airline.ipynb)
 
 
 ### 3. DBSCAN Clustering <a name="DC"></a>
@@ -44,7 +43,6 @@ K MEANS clustering analysis  is also known as Non-Hierarchical Clustering that p
 Clusters are homogeneous, yet dissimilar to other clusters. 
 Need measures of Within-Cluster similarity (homogeneity) and Between-Cluster similarity.
 
+### Scenario 1 [East-West Airline](https://github.com/D4Danny/DBSCAN-Clustering-for-Airline/blob/main/DBSCAN%20Clustering%20for%20East%20West%20Airline.ipynb)
 #### Business Case and Initialize K cluster centers and Obtain CENTROIDS 
-
-### DBSCAN Clustering [East-West Airline](https://github.com/D4Danny/DBSCAN-Clustering-for-Airline/blob/main/DBSCAN%20Clustering%20for%20East%20West%20Airline.ipynb)
 
