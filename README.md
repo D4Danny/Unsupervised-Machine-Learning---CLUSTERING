@@ -34,7 +34,8 @@ The above method is called Agglomerative or Bottom-Up.
 
 ### Scenario 1 [Hierarchical clustering with East-West Airline](https://github.com/D4Danny/Hierarchical-Clustering-for-Airline/blob/main/Hierarchical%20Clustering%20for%20East%20West%20Airline.ipynb)
 
-### Scenario 2 [Hierarchical clustering with US Crime RATE]
+### Scenario 2 [Hierarchical clustering with US Crime RATE](https://github.com/D4Danny/Hierarchical-Clustering-for-US-Crime-Rate/blob/main/Hierarchical%20Clustering%20for%20US%20Crime%20Data.ipynb)
+
 
 #### Clustering of Data based on their homogenous characteristics
 
@@ -50,7 +51,8 @@ Need measures of Within-Cluster similarity (homogeneity) and Between-Cluster sim
 
 ### Scenario 1 [K-Means with East-West Airline](https://github.com/D4Danny/K-Means-Clustering-for-Airline/blob/main/K%20Mean%20Clustering%20for%20East%20West%20Airline.ipynb)
 
-### Scenario 2 [K-Means clustering with US Crime RATE]
+### Scenario 2 [K-Means clustering with US Crime RATE](https://github.com/D4Danny/K-Means-Clustering-for-US-Crime-Rate/blob/main/K%20Mean%20Clustering%20for%20US%20Crime%20Data.ipynb)
+
 
 #### Initialize K cluster centers and Obtain CENTROIDS 
 
@@ -63,7 +65,8 @@ DBSCAN is a density based clustering method that discovers clusters of Non-spher
 
 ### Scenario 1 [DBSCAN with East-West Airline](https://github.com/D4Danny/DBSCAN-Clustering-for-Airline/blob/main/DBSCAN%20Clustering%20for%20East%20West%20Airline.ipynb)
 
-### Scenario 2 [DBSCAN clustering with US Crime RATE]
+### Scenario 2 [DBSCAN clustering with US Crime RATE](https://github.com/D4Danny/DBSCAN-Clustering-for-US-Crime-Rate/blob/main/DBSCAN%20Clustering%20for%20US%20Crime%20data.ipynb)
+
 
 #### DBSCAN alogorithm requires TWO parameters: 1) EPS and 2) MinPts. 
 It has 3 types of data-Points:
