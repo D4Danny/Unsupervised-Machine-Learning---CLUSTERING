@@ -14,6 +14,16 @@ CLUSTERING = GROUPING “Similar” things together!
 #### Scenario 1. EAST WEST AIRLINE DATASET
 East West Airlines has provided information on passengers who belong to an airline’s frequent flier program. For each passenger the data include information on their mileage history and on different ways they accrued or spent miles in the last year. The goal is to try to identify clusters of passengers that have similar characteristics for the purpose of targeting different segments for different types of mileage offers.
 
+#### Scenario 2. US CRIME RATE DATASET
+Perform Clustering(Hierarchical, Kmeans & DBSCAN) for the crime data and identify the number of clusters formed and draw inferences.
+
+Data Description:
+Murder -- Muder rates in different places of United States
+Assualt- Assualt rate in different places of United States
+UrbanPop - urban population in different places of United States
+Rape - Rape rate in different places of United States
+
+
 
 ### 1. Hierarchical Clustering <a name="HC"></a>
 
@@ -23,6 +33,9 @@ Hierarchical cluster analysis  is an unsupervised clustering algorithm that merg
 The above method is called Agglomerative or Bottom-Up.
 
 ### Scenario 1 [Hierarchical clustering with East-West Airline](https://github.com/D4Danny/Hierarchical-Clustering-for-Airline/blob/main/Hierarchical%20Clustering%20for%20East%20West%20Airline.ipynb)
+
+### Scenario 2 [Hierarchical clustering with US Crime RATE]
+
 #### Clustering of Data based on their homogenous characteristics
 
 
@@ -36,6 +49,9 @@ Need measures of Within-Cluster similarity (homogeneity) and Between-Cluster sim
 #### K-Means clustering is useful for large datasets.
 
 ### Scenario 1 [K-Means with East-West Airline](https://github.com/D4Danny/K-Means-Clustering-for-Airline/blob/main/K%20Mean%20Clustering%20for%20East%20West%20Airline.ipynb)
+
+### Scenario 2 [K-Means clustering with US Crime RATE]
+
 #### Initialize K cluster centers and Obtain CENTROIDS 
 
 
@@ -46,6 +62,9 @@ DBSCAN is a density based clustering method that discovers clusters of Non-spher
 
 
 ### Scenario 1 [DBSCAN with East-West Airline](https://github.com/D4Danny/DBSCAN-Clustering-for-Airline/blob/main/DBSCAN%20Clustering%20for%20East%20West%20Airline.ipynb)
+
+### Scenario 2 [DBSCAN clustering with US Crime RATE]
+
 #### DBSCAN alogorithm requires TWO parameters: 1) EPS and 2) MinPts. 
 It has 3 types of data-Points:
 #### 1. Core Point
